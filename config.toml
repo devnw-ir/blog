@@ -1,9 +1,9 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://daradege.ir/kita-farsi"
+base_url = "https://blog.devnw.ir"
 
 # The site title and description; used in feeds by default.
-title = "کیتا فارسی"
-description = "کیتا فارسی یک قالب زیبا، ساده و روان برای زولا است."
+title = "بلاگ شبکه برنامه نویس ها"
+description = "مطالب و نکات مهم شبکه"
 
 # The default site author.
 author = "علی صفامنش"
@@ -71,8 +71,8 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "کیتا فارسی"
-bio = "کیتا فارسی یک قالب زیبا، ساده و روان برای زولا است."
+name = "بلاگ شبکه برنامه نویس ها"
+bio = "مطالب و نکات مهم شبکه"
 # The URL of avatar.
 avatar_url = "icons/github.svg"
 # Invert color in dark mode.
@@ -82,7 +82,7 @@ avatar_invert = true
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
 [[extra.profile.social]]
 name = "github"
-url = "https://github.com/daradege/kita-farsi"
+url = "https://github.com/devnw-ir"
 
 [[extra.profile.social]]
 name = "www"
@@ -133,3 +133,4 @@ input_position = "top"
 theme = "light"
 lang = "en"
 loading = "lazy"
+
