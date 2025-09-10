@@ -86,7 +86,7 @@ url = "https://github.com/devnw-ir"
 
 [[extra.profile.social]]
 name = "www"
-url = "https://github.com/daradege/kita-farsi"
+url = "https://devnw.ir"
 
 [[extra.profile.social]]
 name = "rss"
@@ -133,4 +133,5 @@ input_position = "top"
 theme = "light"
 lang = "en"
 loading = "lazy"
+
 
